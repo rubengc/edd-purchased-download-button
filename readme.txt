@@ -1,6 +1,6 @@
 === EDD Purchased Download Button ===
 Contributors: rubengc
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DDVTXMWNYLEEU
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64N6CERD8LPZN
 Tags: easy digital downloads, digital, downloads, edd, rubengc, purchased, download, button, link, e-commerce
 Requires at least: 4.0
 Tested up to: 4.5
